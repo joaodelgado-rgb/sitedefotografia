@@ -1,8 +1,13 @@
-# TODO - Correção do Site de Fotografia
+# TODO - Correção do Site Danilo Fotografia
 
-## Passos para resolver o problema do site não abrir:
+## Passos do Plano Aprovado
 
-- [x] 1. Analisar todos os arquivos do projeto (completo)
-- [x] 2. Instalar dependências do Node.js (`npm install` na pasta `frontend/`)
-- [x] 3. Iniciar servidor de desenvolvimento (`npm run dev` na pasta `frontend/`)
+- [x] Identificar os problemas (PowerShell Restricted + arquivos raiz vazios)
+- [x] Criar `start.bat` para iniciar o site com duplo clique
+- [x] Habilitar execução de scripts npm (`Set-ExecutionPolicy RemoteSigned`)
+- [x] Criar `index.html` raiz funcional (página estática de fallback)
+- [x] Corrigir `style.css` raiz com estilo funcional
+- [x] Corrigir `script.js` raiz com funcionalidades básicas
+- [x] Testar o site no navegador
+- [ ] Atualizar o repositório GitHub com as correções
 

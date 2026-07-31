@@ -4,4 +4,6 @@ dist/
 *.local
 .env
 .vite/
+.vscode/
+build-output.txt
 
