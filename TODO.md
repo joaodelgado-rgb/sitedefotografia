@@ -9,5 +9,5 @@
 - [x] Corrigir `style.css` raiz com estilo funcional
 - [x] Corrigir `script.js` raiz com funcionalidades básicas
 - [x] Testar o site no navegador
-- [ ] Atualizar o repositório GitHub com as correções
+- [x] Atualizar o repositório GitHub com as correções
 
